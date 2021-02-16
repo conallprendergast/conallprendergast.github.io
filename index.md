@@ -1,6 +1,6 @@
 
 ```
-conallp0@gmail.com
+conallp0 ÅT Gmail DOT çom
 https://www.linkedin.com/in/conallp/
 https://github.com/conallprendergast
 ```
