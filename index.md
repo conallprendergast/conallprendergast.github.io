@@ -9,7 +9,7 @@ Experienced DevOps Engineer with a high degree of knowledge in Linux based Opera
 Skilled in Python, Bash, Ruby and automation tools. RHCSA/RHCE/CKA certified.
 
 ## EXPERIENCE
-###PTC, Dublin - DevOps Engineer/Senior Devops Engineer
+### PTC, Dublin - DevOps Engineer/Senior Devops Engineer
 May 2021 - Present
 - Develop and deploy applications in Python
 - Configure, manage, and monitor production Linux servers
