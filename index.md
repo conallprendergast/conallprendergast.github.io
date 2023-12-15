@@ -5,14 +5,23 @@ https://www.linkedin.com/in/conallp/
 https://github.com/conallprendergast
 ```
 ## PERSONAL PROFILE
-
-
 Experienced DevOps Engineer with a high degree of knowledge in Linux based Operating Systems. 
-Skilled in Python, Bash, Ruby and automation tools. RHCSA/RHCE certified.
+Skilled in Python, Bash, Ruby and automation tools. RHCSA/RHCE/CKA certified.
 
 ## EXPERIENCE
+###PTC, Dublin - DevOps Engineer/Senior Devops Engineer
+May 2021 - Present
+- Develop and deploy applications in Python
+- Configure, manage, and monitor production Linux servers
+- Develop and support applications for Kubernetes
+- Maintain CI/CD pipelines in Jenkins
+- Create and improve monitoring systems for Kubernetes and Linux infrastructure
+- Perform interviews for senior-level DevOps roles
+- Linux, Python, Kubernetes, Jenkins, Artifactory, DevOps
+
+
 ### NuArca, Cork - DevOps Engineer
-September - Present
+September 2020 - May 2021 (8 months)
 - Create and maintain NodeJS and Java microservice applications
 - Set up and maintain Fabric Blockchain networks
 - Configure and maintain Azure Devops pipelines
@@ -61,5 +70,6 @@ Final Year project: Vehicle On-Board Diagnostic Data Collection
 
 ## CERTIFICATES
 - Core Elasticsearch: Developer
-- RedHat Certified Engineer
-- RedHat Certified System Administrator
+- RedHat Certified Engineer (RHCE)
+- RedHat Certified System Administrator (RHCSA)
+- Certified Kubernetes Administrator (CKA)
