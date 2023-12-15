@@ -73,3 +73,4 @@ Final Year project: Vehicle On-Board Diagnostic Data Collection
 - RedHat Certified Engineer (RHCE)
 - RedHat Certified System Administrator (RHCSA)
 - Certified Kubernetes Administrator (CKA)
+- Red Hat Certified Specialist in Security: Linux
